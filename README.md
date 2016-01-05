@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #Statistical analysis of precipitation data with Python
 
 Usually we use probabilistic approaches when dealing with extreme events since the size of available data is scarce to address the maximum for a determined return period.
@@ -6,3 +7,8 @@ Data processing was done with Python on the IPython Notebook interface.
 
 See the whole description in this link:
 http://hatarilabs.tumblr.com/post/136633361772/statistical-analysis-of-precipitation-data-with
+=======
+# Tutorial
+
+This is my tutorial repository.
+>>>>>>> Stashed changes
